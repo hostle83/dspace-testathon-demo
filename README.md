@@ -1,5 +1,6 @@
 # DSpace Release 10.0 Testathon Page
 
+[View edit history] (https://github.com/hostle83/dspace-testathon-demo/blob/main/README.md)
 This site documents the testing process for the upcoming testathon for DSpace 10.
 
 ## Goal
