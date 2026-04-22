@@ -1,4 +1,4 @@
-# DSpace 10 Testathon Demo
+# DSpace Release 10.0 Testathon Page
 
 This site documents the testing process for the upcoming testathon for DSpace 10.
 
